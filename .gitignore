@@ -1,3 +1,14 @@
 # Data folders - too large for GitHub
 Assignment_2/build_cnn/data/
 data/
+
+# Local virtual environments (should not be committed)
+.venv/
+venv/
+
+# Assignment 3
+Assignment_3/mtsd_yolo_dataset/test
+Assignment_3/mtsd_yolo_dataset/train
+
+Assignment_3/mtsd/
+

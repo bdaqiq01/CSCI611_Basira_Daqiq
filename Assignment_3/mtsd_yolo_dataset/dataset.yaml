@@ -1,0 +1,10 @@
+path: /research/bdaqiq/CSCI611_Basira_Daqiq/Assignment_3/mtsd_yolo_dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1
+names: ['traffic-sign']
+
+# Small object detection: use higher resolution
+# imgsz: 1280 recommended for small objects
